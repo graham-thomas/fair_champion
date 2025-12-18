@@ -1,3 +1,0 @@
-"""
-Initialises the code package.
-"""
